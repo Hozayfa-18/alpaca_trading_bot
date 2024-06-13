@@ -11,9 +11,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_KEY="PKMR64OADVAN2MIO8UP9"
-API_SECRET="wv7TzSSgKFvM2OnS89WdymwjOqgzzKnbG35JjHMB"
-BASE_URL="https://paper-api.alpaca.markets"
+API_KEY=""
+API_SECRET=""
+BASE_URL=""
 
 ALPACA_CREDS = {
     "API_KEY":API_KEY, 
